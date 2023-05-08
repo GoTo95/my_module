@@ -1,8 +1,8 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='my_module',
-    version='1.0',
+    name='my_module_goto95',
+    version='1.1',
     author='GoTo95',
     author_email='uraprudnikov@yandex.ru',
     packages=find_packages(),
